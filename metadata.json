@@ -1,0 +1,7 @@
+{
+  "name": "LexClarity",
+  "description": "AI-Powered Legal Information Understanding & Navigation. Understand legal documents, clauses, obligations, and prepare questions for qualified legal counsel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
